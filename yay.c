@@ -17,10 +17,6 @@ int main()
 		}
 		if(rand() % 2)
 		{
-			strcat(opts, "-e ");
-		}
-		if(rand() % 2)
-		{
 			strcat(opts, "-F ");
 		}
 		if(rand() % 2)
